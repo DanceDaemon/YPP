@@ -34,4 +34,4 @@
 4.3 [Анализ современных CSS-фреймворков для создания веб-интерфейсов.](https://github.com/DanceDaemon/YPP/blob/main/ISR_4_3.pdf) (Группа: Глебов М.Д, Мозговой Н.А, Савостин Е.А)
 #### Вариантные самостоятельные работы
 
-# [Курсовая работа]LINK HERE------------------------------
+# [Курсовая работа](https://docs.google.com/document/d/1866VAV_QZkA5xVBinRZrfyKGWcywaYGD/edit?usp=sharing&ouid=102927212264898030927&rtpof=true&sd=true)
